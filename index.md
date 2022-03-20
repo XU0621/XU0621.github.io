@@ -36,6 +36,42 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+1、我们应当始终把“没有付出就没有收获”当作工作学习的座右铭。只有那些努力工作，不畏困难的人才能到达成功的顶峰。
+
+To begin with, “No pains, no gains” should always be our motto in our life and work. Only those who are hard-working and brave enough to encounter difficulties of all sorts are most likely to reach the summit of success.
+
+2、学习生活中我们肯定会遇到一些挫折。但一定要勇于面对，三思而后行。成功是一个过程，需要一步步地去实现。谚语说的好“罗马不是一天建成的”。简言之，努力工作的精神和面对现实的态度是通往成功的关键。
+
+In terms of our life, work and study, we will meet lots of trials. We must always face reality and have a second thought before we make our final decision. Success is also a process and needs to be realized step by step. As a proverb goes “Rome was not built within a day”. In short, hard-working spirit and a realistic attitude lead to success.
+
+3、年轻人只有经历更多的逆境，才能磨练出坚强的个性以及形成未来发展所需要的能力，也只有这样他们才能在这个竞争变化的世界最终取得成功。
+
+Only by undergoing more adversities can young people develop strong personality and ability needed in the future, and only in this way can they eventually become winners in our competitive changing world.(倒装句式的使用)
+
+4、坚持是我们保持精神向上的不可或缺的驱动力，并且能够帮助我们完成自己的学习和工作。
+
+Persistence functions as an indispensable driving force to keep up our spirit and to assist us to fulfill our study and work.
+
+5、在我看来，文化多样性对国家的发展和繁荣至关重要。
+
+In my view, multicultures are extremely vital in ensuring a community's future development and prosperity.
+
+6、教育对我们的生活至关重要，国家的可持续发展和繁荣昌盛依赖于对年轻一代的教育和培养。
+
+It goes without saying that education plays an irreplaceable role in our life. The sustainable development and prosper of a nation depends on the education and cultivation of the young generation.
+
+7、有关部门需要制定更多的法规，并将其贯彻实施，以惩罚破坏环境的行为。另外，
+
+人们应该共同努力，来创建一个可持续的环境。
+
+More regulations should be made and carried out by authorities concerned to punish environmental damage. In addition, individuals must work in joint efforts to create sustainable surroundings.
+
+8、我认为，人类必须认识到自己是自然的一部分，自然的毁灭也意味着人类自身的灭亡。
+
+I harbor the idea that it is of vital importance for people to realize that they are an integral part of nature, the destruction of which means the perishing of themselves.
+
+
+
 
 第一套：
 
