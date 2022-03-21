@@ -1,41 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/XU0621/XU0621.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XU0621/XU0621.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
 1、我们应当始终把“没有付出就没有收获”当作工作学习的座右铭。只有那些努力工作，不畏困难的人才能到达成功的顶峰。
 
 To begin with, “No pains, no gains” should always be our motto in our life and work. Only those who are hard-working and brave enough to encounter difficulties of all sorts are most likely to reach the summit of success.
@@ -73,13 +35,7 @@ I harbor the idea that it is of vital importance for people to realize that they
 
 
 
-第一套：
 
-How enlightening and compelling the above drawing is!It is so funny that whoever sees it cannot help thinking:_____.(这句自己加完整，从宏观上 描述一下图画就可以，笼统的，大体的)______while_______.(这句从微观上具体说明 一下图画要描述的矛盾点，必须找到矛盾点，用到 while 这个单词)Simple as it looks,its intended meaning goes far deeper what on earth does the drawer really aim to convey. 
-
-第二段： 
-
-What the image above vividly mirrors goes far more than a simple image,instead,it carries a thought provoking social phenomenon:____.(本文的主旨)There are upsetting(如文章不是讽刺性的，就把 upsetting 删除)parallels today in our contemporary community. For example,______.(举 2 个例子，如果字数够就举 1 个) 
 
 第三段： 
 
@@ -101,61 +57,7 @@ Not only I, but also the best philosophers and poets also praise that this conce
 
 From what has been discussed above, the most important thing is not to say, but instead to do. Chinese citizens are expected to enhance their awareness that it is an indispensable part for the construction of harmonious society. Only in this way, can we /our country/ the individual have a glorious future.)
 
-第四套：
 
-一、 
-
-As is shown in the picture(graph\cartoon\table), it goes without saying that the drawing aims at revealing a common problem(in China):______. It has attracted extensive attention of the society.Nowadays, increasingly more argumentations about it can be found in TV programs,newspapers,university classes and many aspects of our everyday life.Its status as the focus of public concern mainly results from its profound influence on individuals, collective and even the whole world. 
-
-First of all, ______________is crucial for every individual.With its seemingly magic power, it can not only accelerate better individuals’ development, but serve as an efficient instrument for individuals to change the world. Those equipped with it are always admired and respected, because it may endow them with more competence, chances, self-confidence to overcome difficulties and handle problems.Those people appear to possess a special charm,bringing to others hope, passion and surprise,and,thus winning others’favor and trust.It can directly promote the rapid progress of the organization with its energy and indirectly spurs continuous development with the good culture it generates.Through continuously promoting the social productivity, unceasingly improving the productive relationship, and gradually enriching human material and spiritual wealth, ______________eventually brings economic prosperity and social harmony.
-
-In short, where there is better______________, there are more hopes, vitality and development. When we are benefiting from it, we shall also do our utmost to maintain its vitality to ensure ourselves a brighter future.
-
-二、 
-
-As is vividly in the picture(s),it is a contemporary social issue in China of common interests and permanent value. The picture(s)does reflect a thought-provoking social phenomenon which is not uncommon nowadays.When weighing in the mind,we find an apparent tendency underlying this sight:_______________. 
-
-Simple as it is,what the picture conveys to us is thought-provoking.With the development of economy and society, competition is becoming increasingly fierce.It is impossible for anyone to finish a task without .Hence, people in mounting numbers put great emphasis on .In fact, it has been universally acknowledged that the ability of s the most essential qualification that anyone who wants to achieve success should possess. Numerous examples can be given, but this will suffice. A case in point is the successful host of Beijing 2008 Olympic Games and the deadly earthquake in Si Chuan province.These cases effectively clarify that really counts in this competition society.
-
-Accordingly, it is imperative for us to take some measures to enhance the sense of in our society. We should bear in mind that is of great significance to both our society and ourselves. Everyone should have the ability of______. Only in this way can we achieve success and only in this way can our society become more harmonious to live in.
-
-第五套：
-
-As is shown in the picture(graph\cartoon\table)，it goes without saying that the drawing aims at revealing a common problem(in China):______.Its status as the focus of public concern mainly results from its profound influence on individuals, collective and even the whole world. Each of us should attach high emphasis on solving it. 
-
-As a matter of fact, the symbolic meaning the picture conveys is deep and profound. Naturally and necessarily, there are two major ways coping with this problem. The first way to tackle it is to appeal to authorities to take measures. Once achieving the success of solving the problem, the whole society also thrives/makes progress. Solving the problem can accelerate better individuals’development. The other way that is worth adopting is to work out new laws. Where there are better laws, there are more hopes, vitality and development. These advisable laws eventually brings economic prosperity and social harmony. Finally, I can safely come to the conclusion that it is high time we enhanced theawareness of people that is every vital to us. Only by these means can we succeed in solving the problem in the near future.(1 Therefore, measures should be taken to terminate the ridiculous affair. First and foremost, governments should establish some regulations to prohibit enterprises and people from making such misdeeds. What’s more, people should get ready to pass criticism upon such misdeeds anytime and anywhere. After all, it is necessary to develop our society by performing hard work instead of talking nonsense. 
-
-In my opinion, it is imperative that we should take some drastic actions. On the one hand, we should appeal to our authorities to enact concrete laws to control commercial fishing. On the other hand, we should enhance people's awareness that ocean resources are vital to us and the ecological balance will be guaranteed with the strategy of sustainable development. Only by doing so can we effectively protect our natural resources. Also I am convinced that we humans can overcome this difficulty and we will have a bright future.) 
-
-To conclude, we should not yield to mediocrity regardless of seemingly insurmountable obstacles. So the prospect we are looking forward to will be bright and encouraging.
-
-第六套：
-
-考研英语大作文模板(展望未来型)： 
-
-With the rapid advances of _____________ in recent years, ___has____________(引出现象). However, _______ has________________, as____________(提出问题). As a result, _____has ____________________(指出影响). The effects ___________ has produced on____________ can be boiled down to two major ones. 
-
-First , __________________(影响一). More importantly, ________________(影响二). Hence, I believe that we will see a ____________(提出展望)/ Nevertheless, I do not think we will see a ______(或反面展望). 
-
-There are numerous reasons why ____, and I would like to explore a few of the most important ones here. The first is that the more(比较 级)_____, the more (比较级). In addition, we all agree that________________________(第二个原因).
-
-考研英语大作文模板(图画作文)： 
-
-This illustration depicts_________ (图画中的人物)Ving, with______________(补充说明). Recently it has become common for people in many walks of life to_____________(进一步阐释).
-
-It seems to me that the cartoonist is sending a message about _______(图画主题), which is ______________(进一步的说明). He seems to be saying that_______________(给出细节). In my opinion, ___________(个人阐述). 
-
-This simple picture is a wake up call for ______(所涉群体，如 the whole of the human race). Therefore, it is imperative for us to take drastic measures to put an end to _____________(问题所在). One the one hand, we must _________________(建议一). 
-
-It is clear that the drawer of the illustration is urging us to _________(进一步说明). On the other hand, ________________(建议二) Only in this way can we___________(展望前景).
-
-考研英语大作文模板(图表作文)： 
-
-The chart gives us an overall picture of the ____________(图表主题). The first thing we notice is that_______________(图表最大特点). This means that as __________, _________________(进一步说明). 
-
-We can see from the statistics given that _______________(图表细节 一). After ving_________(细节一中的第一个变化), the _____Ved+幅度+时间(紧 跟着的变化). The figures also tells us that_________________________(图表细节二). (数据位置，如 In the secondcolumn), we can see that ____________accounts for _______(进一步描 述). 
-
-Judging from these figures, we can draw the conclusion that___________(结论). The reason for this, as far as I am concerned is that_____________(给出原因). / It is high time that we Ved(发出倡议).
 
 第七套：
 
@@ -282,3 +184,47 @@ It goes without saying that this picture aims at revealing a current problem; �
 It seems to me that the artist is sending a message about the importance of ……. Though the drawing is a little exaggerating,it is not rare for us to find in ……. If we let this situation of continues,it not only harms ……,but also prevents ……. 
 
 Accordingly,we urgently call for ……. Though the government has already taken pains to implement regulations,it still failz to ……. In my opinion,this problem should be urgently solved so as to protect benefits. I expect the government will put forward more effective propositions as soon as possible.
+
+
+
+
+
+
+
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/XU0621/XU0621.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XU0621/XU0621.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
